@@ -1,0 +1,7 @@
+opentext\cmeai\CmeaiApplication.class
+opentext\cmeai\CopyRightScanner.class
+opentext\cmeai\CopyrightRiskClassifier.class
+opentext\cmeai\CopyRightScanner$ScanResult.class
+opentext\cmeai\ScanResult.class
+opentext\cmeai\controller\HelloController.class
+opentext\cmeai\utility\ScanUtility.class
